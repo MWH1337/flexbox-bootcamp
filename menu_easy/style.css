@@ -1,0 +1,48 @@
+.container {
+    display:flex;
+    justify-content: flex-start;
+    height:200px;
+    align-items: center;
+    background-color: lightgrey;
+    
+
+    
+}
+.menu-item1 {
+    flex:1;
+    background-color: gray;
+
+    
+    
+        
+}
+.menu-item2 {
+    flex:1;
+    background-color: gray;
+    
+    
+}
+.menu-item3 {
+    flex:1;
+    background-color: gray;
+    
+    
+}
+.menu-item4 {
+    flex:1;
+    background-color: gray;
+    
+
+}
+.menu-item1:hover {
+    background-color: green;
+}
+.menu-item2:hover {
+    background-color: green;
+}
+.menu-item3:hover {
+    background-color: green;
+}
+.menu-item4:hover {
+    background-color: green;
+}
